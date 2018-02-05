@@ -39,7 +39,7 @@ public class MockoweDane {
 		map.put(Integer.toString(map.size() + 1), rekord);
 		
 		
-		// tu coœ dodali 2
+		// tu coœ dodali 21
 				
 	}
 }
