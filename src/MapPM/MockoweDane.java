@@ -40,5 +40,6 @@ public class MockoweDane {
 		
 		
 		// tu coœ dodali 2
+				
 	}
 }
