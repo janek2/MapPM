@@ -1,6 +1,6 @@
 package MapPM;
 
-public class go {
+public class go {//
 	public static void main(String[] args) {
 		MojaMapa map = new MojaMapa();
 		MockoweDane mockoweDane = new MockoweDane(map);
