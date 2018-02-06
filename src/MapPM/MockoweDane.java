@@ -38,8 +38,12 @@ public class MockoweDane {
 		rekord.setWiek(45);
 		map.put(Integer.toString(map.size() + 1), rekord);
 		
+<<<<<<< HEAD
 		
 		// tu coœ dodali 21
+=======
+		//
+>>>>>>> refs/remotes/origin/br2
 				
 	}
 }
