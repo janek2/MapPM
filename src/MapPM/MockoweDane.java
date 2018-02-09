@@ -10,19 +10,19 @@ public class MockoweDane {
 
 		rekord = new Rekord();
 		rekord.setImie("Piotr");
-		rekord.setNazwisko("Michalski");
+		rekord.setNazwisko("Michalski__");
 		rekord.setWiek(45 );
 		map.put(Integer.toString(map.size() + 1), rekord);
 
 		rekord = new Rekord();
 		rekord.setImie("Piotr");
-		rekord.setNazwisko("Chmielewski");
+		rekord.setNazwisko("Chmielewski__");
 		rekord.setWiek(45);
 		map.put(Integer.toString(map.size() + 1), rekord);
 
 		rekord = new Rekord();
 		rekord.setImie("Grzegorz");
-		rekord.setNazwisko("Augustyn");
+		rekord.setNazwisko("Augustyn__");
 		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
 
