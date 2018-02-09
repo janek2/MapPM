@@ -43,6 +43,13 @@ public class MockoweDane {
 		rekord.setNazwisko("Kwinta");
 		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
+		
+		rekord = new Rekord();
+		rekord.setImie("Irek");
+		rekord.setNazwisko("Szala");
+		rekord.setWiek(44);
+		map.put(Integer.toString(map.size() + 1), rekord);
+		
 				
 	}
 }
