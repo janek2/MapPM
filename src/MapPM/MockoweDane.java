@@ -67,7 +67,8 @@ public class MockoweDane {
 		rekord.setNazwisko("Chor¹¿yk");
 		rekord.setWiek(44 );
 		map.put(Integer.toString(map.size() + 1), rekord);
-		
+		//a1
+		//a2
 				
 	}
 }
