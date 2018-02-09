@@ -14,6 +14,7 @@ public class go {//
 			System.out.println(klucz + " - " + map.get(klucz));
 		}
 		
+		System.out.println(moj);
 		
 	}
 }
