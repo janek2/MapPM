@@ -11,7 +11,7 @@ public class MockoweDane {
 		rekord = new Rekord();
 		rekord.setImie("Piotr");
 		rekord.setNazwisko("Michalski");
-		rekord.setWiek(2);
+		rekord.setWiek(3);
 		map.put(Integer.toString(map.size() + 1), rekord);
 
 		rekord = new Rekord();
@@ -47,25 +47,25 @@ public class MockoweDane {
 		rekord = new Rekord();
 		rekord.setImie("Irek");
 		rekord.setNazwisko("Szala");
-		rekord.setWiek(44 );
+		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
 
 		rekord = new Rekord();
 		rekord.setImie("Adaœ");
 		rekord.setNazwisko("Ozga");
-		rekord.setWiek(44 );
+		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
 		
 		rekord = new Rekord();
 		rekord.setImie("Krzysio");
 		rekord.setNazwisko("Banaœ");
-		rekord.setWiek(44 );
+		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
 		
 		rekord = new Rekord();
 		rekord.setImie("Grzeœ");
 		rekord.setNazwisko("Chor¹¿yk");
-		rekord.setWiek(44 );
+		rekord.setWiek(44);
 		map.put(Integer.toString(map.size() + 1), rekord);
 				
 	}
