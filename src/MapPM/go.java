@@ -5,7 +5,8 @@ public class go {//
 		MojaMapa map = new MojaMapa();
 		MockoweDane mockoweDane = new MockoweDane(map);
 		mockoweDane.dodajDane();		
-
+		//rebase2
+		
 		String klucz;
 		System.out.println(map.size());
 		while (map.hasNext()) {
